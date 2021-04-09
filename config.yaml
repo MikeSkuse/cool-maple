@@ -2,7 +2,7 @@ title: Stackbit Starter Theme
 baseURL: /
 params:
   header:
-    title: Starter
+    title: MikeSkuse.com
     has_nav: true
     nav_links:
       - label: Features
