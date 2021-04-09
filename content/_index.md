@@ -43,7 +43,7 @@ sections:
             url: 'https://twitter.com/mikeskuse'
             style: secondary
   - type: cta_section
-    title: This Is A CTA
+    title: Thanks for visiting!
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
       quis lorem malesuada luctus.
