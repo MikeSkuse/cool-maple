@@ -20,10 +20,9 @@ sections:
     title: Latest
     features:
       - title: Giphy
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Check out my content on [Giphy](https://giphy.com/channel/MikeSkuse)
+          now!
         align: left
         image: images/feature.svg
         image_alt: Feature 1 placeholder image
