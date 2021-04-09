@@ -40,7 +40,7 @@ sections:
         image_position: left
         actions:
           - label: Tweet me
-            url: /features
+            url: 'https://twitter.com/mikeskuse'
             style: secondary
       - title: Feature 3
         content: >-
