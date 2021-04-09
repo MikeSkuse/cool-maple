@@ -5,9 +5,6 @@ sections:
     title: Welcome to MikeSkuse.com
     subtitle: A simple portfolio page to show some gifs and other creative content.
     actions:
-      - label: Learn More
-        url: /features
-        style: primary
       - label: Contact Us
         url: /contact
         style: secondary
