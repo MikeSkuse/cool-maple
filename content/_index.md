@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Welcome to MikeSkuse.com
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: A simple portfolio page to show some gifs and other creative content.
     actions:
       - label: Learn More
         url: /features
