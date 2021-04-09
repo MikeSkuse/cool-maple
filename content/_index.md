@@ -44,9 +44,7 @@ sections:
             style: secondary
   - type: cta_section
     title: Thanks for visiting!
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+    subtitle: I hope you enjoyed your time of this very simple website!
     actions:
       - label: Learn More
         url: /features
