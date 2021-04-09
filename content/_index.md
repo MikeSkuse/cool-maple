@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Welcome to MikeSkuse.com
     subtitle: A simple portfolio page to show some gifs and other creative content.
-    actions:
-      - label: Contact Us
-        url: /contact
-        style: secondary
+    actions: []
     align: left
     image: images/hero.svg
     image_alt: Hero placeholder image
