@@ -24,7 +24,7 @@ params:
         style: link
         new_window: true
       - label: GitHub
-        url: 'https://github.com/'
+        url: 'https://github.com/mikeskuse'
         style: link
         new_window: true
       - label: LinkedIn
