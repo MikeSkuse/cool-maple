@@ -45,10 +45,7 @@ sections:
   - type: cta_section
     title: Thanks for visiting!
     subtitle: I hope you enjoyed your time of this very simple website!
-    actions:
-      - label: Learn More
-        url: /features
-        style: primary
+    actions: []
     has_background: true
     background_color: gray
 seo:
